@@ -25,10 +25,10 @@
 > 
 > I build end-to-end web products: from the pixel-perfect frontend to the API that powers it.
 
--  Currently working on something new — stay tuned
--  Based in Cannes, France
--  Focused on performance, maintainability & great developer experience
--  Open to freelance projects and collaborations
+>  Currently working on something new — stay tuned
+>  Based in Cannes, France
+>  Focused on performance, maintainability & great developer experience
+>  Open to freelance projects and collaborations
 
 ---
 
