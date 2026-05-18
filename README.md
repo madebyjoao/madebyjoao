@@ -82,7 +82,7 @@
 
 Got a project in mind? Let's talk.
 
-[![Email](https://img.shields.io/badge/hello@madebyjoao.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@madebyjoao.dev)
+[![Email](https://img.shields.io/badge/hello@madebyjoao.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao@madebyjoao.fr)
 
 ---
 
