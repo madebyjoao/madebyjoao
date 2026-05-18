@@ -68,10 +68,6 @@
 
 <div align="center">
 
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madebyjoao&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madebyjoao&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=8b949e)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=madebyjoao&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff)
 
 </div>
