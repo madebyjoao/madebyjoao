@@ -19,7 +19,7 @@
 
 ---
 
-## ⚡ About me
+## About me
 
 > I'm João — a full-stack developer who obsesses over clean code, great UX, and shipping things that actually work.
 > 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 📬 Let's work together
+## Let's work together
 
 Got a project in mind? Let's talk.
 
